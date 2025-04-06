@@ -1,5 +1,7 @@
 # CoinBankSafe
 
+![safe](coinbanksafe.png)
+
 Pattern for laser cutting generated from: https://boxes.hackerspace-bamberg.de/CoinBankSafe?language=en
 
 ## To do
